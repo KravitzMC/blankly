@@ -125,7 +125,7 @@ Dates, times, and scheduling adjust on the backend to make the experience instan
 
 ### 💻 Installation  - (update fixed issue build)
 
-1. First clone Blankly repository:
+1. First clone The blankly repository:
 
 ```bash
 $ git clone https://github.com/blankly-finance/blankly.git
