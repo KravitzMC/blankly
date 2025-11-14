@@ -40,8 +40,6 @@ Blankly is an ecosystem for algotraders enabling anyone to build, monetize and s
 
 The blankly package is designed to be **extremely precise** in both simulation and live trading. **The engineering considerations for highly accurate simulation are described [here](blankly/BACKTESTING_ENGINEERING.md)**
 
-Getting started is easy - just `pip install blankly` and `blankly init`.
-
 Check out our [website](https://blankly.finance) and our [docs](https://docs.blankly.finance).
 
 <div align="center">
