@@ -123,9 +123,9 @@ strategy.start()
 
 Dates, times, and scheduling adjust on the backend to make the experience instant.
 
-## Quickstart (fixed issue build)
+## Quickstart
 
-### Installation
+### Installation (with fixed issue build)
 
 1. First clone Blankly repository:
 
