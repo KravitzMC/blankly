@@ -32,7 +32,7 @@
     <a href="#quickstart">Getting Started</a>
   </p>
   
-:warning: **Used at one's own risk** :warning:
+<h2><p align="center">:warning: **Used at one's own risk** :warning:</p></h2>
 ---
 
 ## Why Blankly? 
