@@ -36,7 +36,7 @@ setup(
         'bokeh >= 2.4.2',
         'dateparser >= 1.1.0',
         'newnewtulipy >= 0.4.6.3',
-        'numpy >= 1.21.4',
+        'numpy == 1.26.4',
         'pandas >= 1.1.5',
         'python-binance >= 1.0.15',
         'requests >= 2.26.0',
