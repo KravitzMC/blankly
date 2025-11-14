@@ -123,7 +123,7 @@ strategy.start()
 
 Dates, times, and scheduling adjust on the backend to make the experience instant.
 
-## Quickstart
+## Quickstart (Update)
 
 ### Installation
 
