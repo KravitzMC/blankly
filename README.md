@@ -127,16 +127,46 @@ Dates, times, and scheduling adjust on the backend to make the experience instan
 
 ### Installation
 
-1. First install Blankly using `pip`. Blankly is hosted on [PyPi](https://pypi.org/project/Blankly/).
+1. First clone Blankly repository:
 
 ```bash
-$ pip install blankly
+$ git clone https://github.com/blankly-finance/blankly.git
+$ cd blankly 
 ```
 
-2. Next, just run:
+2. Set up using uv (recommended):
 ```bash
+# Install uv if you don't have it
+$ pip install uv
+
+# Install python 3.9 (for blankly support) inside UV
+$ uv python install 3.9
+
+# create an venv with python 3.9
+$ uv venv --python 3.9
+
+# Activate the virtual environment
+
+# For Windows (CMD):
+.venv\Scripts\activate.bat
+
+# For macOS/Linux:
+source .venv/bin/activate
+
+```
+
+3. Install Blankly via setup.py:
+```bash
+$ uv pip install .
+```
+
+4. Create demo folder and just run it:
+```bash
+$ mkdir demo
+$ cd demo
 $ blankly init
 ```
+
 This will initialize your working directory.
 
 The command will create the files `keys.json`, `settings.json`, `backtest.json`, `blankly.json` and an example script called `bot.py`.
