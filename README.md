@@ -145,8 +145,7 @@ $ uv python install 3.9
 # create an venv with python 3.9
 $ uv venv --python 3.9
 
-# Activate the virtual environment
-#(and need to activate it each time you return to use it again in current blankly folder.)
+# Activate the virtual environment (need to activate it each time you return to use it again.)
 
 # For Windows (CMD):
 .venv\Scripts\activate.bat
