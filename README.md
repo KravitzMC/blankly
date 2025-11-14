@@ -31,7 +31,8 @@
     ·
     <a href="#quickstart">Getting Started</a>
   </p>
-
+  
+:warning: **Used at one's own risk** :warning:
 ---
 
 ## Why Blankly? 
