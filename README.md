@@ -160,11 +160,16 @@ source .venv/bin/activate
 $ uv pip install .
 ```
 
-4. Create demo folder and just run it:
+4. Create and initialize demo folder:
 ```bash
 $ mkdir demo
 $ cd demo
 $ blankly init
+```
+
+5. just run it:
+```bash
+$ uv run bot.py
 ```
 
 This will initialize your working directory.
