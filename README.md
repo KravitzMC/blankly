@@ -125,7 +125,7 @@ Dates, times, and scheduling adjust on the backend to make the experience instan
 
 ## Quickstart
 
-### Installation (update fixed issue build)
+### 💻 Installation  - (update fixed issue build)
 
 1. First clone Blankly repository:
 
