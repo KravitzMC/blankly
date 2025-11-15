@@ -164,20 +164,11 @@ $ mkdir demo
 $ cd demo
 $ blankly init
 ```
-
-5. just run it:
-```bash
-$ uv run bot.py
-```
-
 This will initialize your working directory.
-
 The command will create the files `keys.json`, `settings.json`, `backtest.json`, `blankly.json` and an example script called `bot.py`.
-
 If you don't want to use our `init` command, you can find the same files in the `examples` folder under [`settings.json`](https://github.com/Blankly-Finance/Blankly/blob/main/examples/settings.json) and [`keys_example.json`](https://github.com/Blankly-Finance/Blankly/blob/main/examples/keys_example.json)
 
-3. From there, **insert your API keys** from your exchange into the generated `keys.json` file or take advantage of the CLI keys prompt.
-
+From there, **insert your API keys** from your exchange into the generated `keys.json` file or take advantage of the CLI keys prompt.
 More information can be found on our [docs](https://docs.blankly.finance)
 
 ### Directory format
@@ -188,6 +179,11 @@ project/
    |-bot.py
    |-keys.json
    |-settings.json
+```
+
+5. And then just run it:
+```bash
+$ uv run bot.py
 ```
 
 #### Additional Info
@@ -211,8 +207,8 @@ For more info, and ways to do more advanced things, check out our [getting start
 | OANDA               | 🟢           |  | 🟢           | 🟢           |
 | FTX                 | 🟢           | 🟢          | 🟢           | 🟢           |
 | KuCoin              | 🟢           | 🟢        | 🟢           | 🟢           |
-| Binance Futures | 🟢 | 🟢 | 🟢 | 🟢 |
-| FTX Futures | 🟡 | 🟡 | 🟢 | 🟢 |
+| Binance Futures     | 🟢 | 🟢 | 🟢 | 🟢 |
+| FTX Futures          | 🟡 | 🟡 | 🟢 | 🟢 |
 | Okx | 🟢 | 🟢 | 🟢 | 🟢 |
 | Kraken              | 🟡           | 🟡          | 🟡           | 🟡           |
 | Keyless Backtesting |              |            |              | 🟢           |
