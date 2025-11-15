@@ -153,7 +153,7 @@ source .venv/bin/activate
 
 ```
 
-3. Install Blankly package via setup.py:
+3. Install Blankly packages via setup.py:
 ```bash
 $ uv pip install .
 ```
