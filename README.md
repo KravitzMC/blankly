@@ -137,7 +137,7 @@ $ cd blankly
 # Install uv if you don't have it
 $ pip install uv
 
-# Install python 3.9 (for blankly support) inside UV
+# Install old python 3.9 (for fully support) inside uv
 $ uv python install 3.9
 
 # create an venv with python 3.9
