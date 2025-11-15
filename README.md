@@ -34,7 +34,7 @@
 
 <h2><p align="center">:warning: **Used at one's own risk** :warning:</p></h2>
 
-## Why Blankly? 
+## 📈 Why Blankly? 
 
 Blankly is an ecosystem for algotraders enabling anyone to build, monetize and scale their trading algorithms for stocks, crypto, futures or forex. The same code can be backtested, paper traded, sandbox tested and run live by simply changing a single line. Develop locally then deploy, iterate and share using the blankly platform.
 
